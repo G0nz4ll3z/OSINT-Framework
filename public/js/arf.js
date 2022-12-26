@@ -25,7 +25,8 @@ d3.json("arf.json", function(json) {
   function collapse(d) {
     if (d.children) {
       d._children = d.children;
-      d._children.forEach(collapse);
+      Array.from(d._children).forEach(collapse);
+      //d._children.forEach(collapse);
       d.children = null;
     }
   }

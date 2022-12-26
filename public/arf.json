@@ -5,22 +5,6 @@
         {
           "children": [
             {
-              "name": "Окко бога",
-              "type": "url",
-              "url": "https://t.me/Sicherheitsdienst_ukraine_bot"
-            },
-            {
-              "name": "Quick Osint",
-              "type": "url",
-              "url": "https://t.me/Quick_Osint_searchbot"
-            }
-          ],
-          "name": "Пробив інфи по номеру",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
               "name": "HLR commpeak.com",
               "type": "url",
               "url": "https://www.commpeak.com/services/lookup#lookup-tester "
@@ -68,24 +52,6 @@
           ],
           "name": "Список популярних",
           "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "Вконтакте",
-              "type": "folder"
-            },
-            {
-              "name": "Одноклсаники",
-              "type": "folder"
-            },
-            {
-              "name": "Мой Мир",
-              "type": "folder"
-            }
-          ],
-          "name": "Агрегатори",
-          "type": "folder"
         }
       ],
       "name": "Соц Мережі",
@@ -101,22 +67,6 @@
           },
           "name": "Пошук паролів",
           "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "Окко бога",
-              "type": "url",
-              "url": "https://t.me/Sicherheitsdienst_ukraine_bot"
-            },
-            {
-              "name": "Quick Osint",
-              "type": "url",
-              "url": "https://t.me/Quick_Osint_searchbot"
-            }
-          ],
-          "name": "Пробив інфи по email",
-          "type": "folder"
         }
       ],
       "name": "E-mail",
@@ -129,7 +79,7 @@
             {
               "children": [
                 {
-                  "name": "Tinder",
+                  "name": "Tinder(M)",
                   "type": "url",
                   "url": "https://tinder.com/@donaldtrump"
                 }
@@ -140,25 +90,9 @@
           ],
           "name": "Пошук Руцями",
           "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "Окко бога",
-              "type": "url",
-              "url": "https://t.me/Sicherheitsdienst_ukraine_bot"
-            },
-            {
-              "name": "Quick Osint",
-              "type": "url",
-              "url": "https://t.me/Quick_Osint_searchbot"
-            }
-          ],
-          "name": "Пробив інфи по нікнейму",
-          "type": "folder"
         }
       ],
-      "name": "Никнейм",
+      "name": "Нікнейм",
       "type": "folder"
     },
     {
@@ -184,9 +118,162 @@
           ],
           "name": "Гос Номер",
           "type": "folder"
+        },
+        {
+          "name": "Агрегатори обяв",
+          "type": "folder",
+          "children": [
+            {
+              "name": "haraba.ru",
+              "type": "url",
+              "url": "https://haraba.ru/search"
+            },
+            {
+              "name": "turbopoisk.com",
+              "type": "url",
+              "url": "https://turbopoisk.com/"
+            },
+            {
+              "name": "edrom.ru",
+              "type": "url",
+              "url": "edrom.ru"
+            }
+          ]
         }
       ],
       "name": "Транспортний засіб",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Телефонні довідники",
+          "type": "folder",
+          "children": [
+            {
+              "name": "spra.vkaru.net ",
+              "type": "url",
+              "url": "http://spra.vkaru.net/"
+            },
+            {
+              "name": "spravnik.com",
+              "type": "url",
+              "url": "https://spravnik.com/"
+            }
+          ]
+        },
+        {
+          "name": "Пошук ИНН",
+          "type": "folder",
+          "url": "https://t.me/egrul_bot"
+        },
+        {
+          "name": "Пошук в реестрі залогодавців",
+          "type": "url",
+          "url": "https://reestr-zalogov.ru/search/index"
+        },
+        {
+          "name": "Пошук жителів",
+          "type": "url",
+          "url": "https://zhutilu.rosfirm.info/"
+        },
+        {
+          "name": "Пошук згадувань у документах",
+          "type": "url",
+          "url": "https://www.mmnt.ru/"
+        },
+        {
+          "name": "Пошук в Арбітражному суді",
+          "type": "url",
+          "url": "https://kad.arbitr.ru/"
+        },
+        {
+          "name": "Пошук в реестрі банкротів",
+          "type": "url",
+          "url": "https://bankrot.fedresurs.ru/"
+        },
+        {
+          "name": "Перевірка боргів",
+          "type": "url",
+          "url": "https://fssp.gov.ru/"
+        },
+        {
+          "name": "Пошук відмінених довереностей",
+          "type": "url",
+          "url": "https://reestr-dover.ru/revocations"
+        },
+        {
+          "name": "Пошук трупаків",
+          "type": "url",
+          "url": "https://notariat.ru/ru-ru/help/probate-cases/"
+        },
+        {
+          "name": "Пошук профілів ВК",
+          "type": "url",
+          "url": "https://bigbookname.com/"
+        },
+        {
+          "name": "Статистика пошуку ПІБ",
+          "type": "url",
+          "url": "https://wordstat.yandex.ru/"
+        },
+        {
+          "name": "Перевірка контрагентів",
+          "type": "url",
+          "url": "https://www.list-org.com/"
+        },
+        {
+          "name": "Пошук контрагентів",
+          "type": "url",
+          "url": "https://contragent.integrum.ru/search/"
+        },
+        {
+          "name": "Реестр кандидатів на вибори",
+          "type": "url",
+          "url": "https://elections.istra-da.ru/"
+        },
+        {
+          "name": "Реестр декларацій держслужюовців",
+          "type": "url",
+          "url": "https://declarator.org/"
+        },{
+          "name":"Реестр публічних діячів",
+          "type":"url",
+          "url":"https://rupep.org/en/"
+        }
+      ],
+      "name": "ПІБ",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Окко бога",
+          "type": "url",
+          "url": "https://t.me/Sicherheitsdienst_ukraine_bot"
+        },
+        {
+          "name": "himera-search.net",
+          "type": "url",
+          "url": "https://himera-search.net/"
+        },
+        {
+          "name": "Quick Osint",
+          "type": "url",
+          "url": "https://quickosint.com/"
+        },
+        {
+          "name": "lampyre.io",
+          "type": "url",
+          "url": "https://lampyre.io/"
+        },
+        {
+          "name": "odyssey-search.info",
+          "type": "url",
+          "url": "https://odyssey-search.info/"
+        }
+      ],
+      "name": "Агрегатори",
       "type": "folder"
     }
   ],

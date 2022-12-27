@@ -159,6 +159,11 @@
               "name": "spravnik.com",
               "type": "url",
               "url": "https://spravnik.com/"
+            },
+            {
+              "name": "domspravka.com",
+              "type": "url",
+              "url": "https://domspravka.com/"
             }
           ]
         },
@@ -236,10 +241,11 @@
           "name": "Реестр декларацій держслужюовців",
           "type": "url",
           "url": "https://declarator.org/"
-        },{
-          "name":"Реестр публічних діячів",
-          "type":"url",
-          "url":"https://rupep.org/en/"
+        },
+        {
+          "name": "Реестр публічних діячів",
+          "type": "url",
+          "url": "https://rupep.org/en/"
         }
       ],
       "name": "ПІБ",
@@ -271,6 +277,31 @@
           "name": "odyssey-search.info",
           "type": "url",
           "url": "https://odyssey-search.info/"
+        },
+        {
+          "name": "SaveRuData",
+          "type": "url",
+          "url": "https://saverudata.info"
+        },
+        {
+          "name": "@Zernerda_bot",
+          "type": "url",
+          "url": "https://t.me/Zernerda_bot"
+        },
+        {
+          "name": "@safe_search_bot",
+          "type": "url",
+          "url": "https://t.me/safe_search_bot"
+        },
+        {
+          "name":"@KozakBezZabot",
+          "type":"url",
+          "url":"https://t.me/KozakBezZabot"
+        },
+        {
+          "name":"@data_surf_bot",
+          "type":"url",
+          "url":"https://t.me/data_surf_bot"
         }
       ],
       "name": "Агрегатори",

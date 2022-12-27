@@ -283,21 +283,25 @@
           "type": "url",
           "url": "https://rupep.org/en/"
         },
-        {"name":"ГосУслуги(М)",
-        "type":"url",
-          "url":"https://www.gosuslugi.ru/api/posobie16/v1/orders/snils/lookup?lastName=ФАМИЛИЯ&firstName=ИМЯ&middleName=ОТЧЕСТВО&birthDate=ГГГГ-ММ-ДД"}
+        {
+          "name": "ГосУслуги(М)",
+          "type": "url",
+          "url": "https://www.gosuslugi.ru/api/posobie16/v1/orders/snils/lookup?lastName=ФАМІЛІЯ&firstName=ІМЯ&middleName=ПОБАТЬКОВІ&birthDate=РРРР-ММ-ДД"
+        }
       ],
       "name": "ПІБ",
       "type": "folder"
-    },{
-      "name":"Пароль", "type":"folder", "children":[
+    },
+    {
+      "name": "Пароль",
+      "type": "folder",
+      "children": [
         {
-          "name":"@userssearchbot",
-          "type":"url",
-          "url":"https://t.me/userssearchbot"
+          "name": "@userssearchbot",
+          "type": "url",
+          "url": "https://t.me/userssearchbot"
         }
       ]
-
     },
     {
       "children": [
@@ -357,9 +361,14 @@
           "url": "https://t.me/SovaAppBot"
         },
         {
-          "name":"@userssearchbot",
-          "type":"url",
-          "url":"https://t.me/userssearchbot"
+          "name": "@userssearchbot",
+          "type": "url",
+          "url": "https://t.me/userssearchbot"
+        },
+        {
+          "name": "@UniversalSearchRobot",
+          "type": "url",
+          "url": "https://t.me/UniversalSearchRobot"
         }
       ],
       "name": "Агрегатори",

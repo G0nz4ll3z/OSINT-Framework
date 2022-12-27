@@ -103,6 +103,11 @@
               "name": "av100.ru",
               "type": "url",
               "url": "https://av100.ru/"
+            },
+            {
+              "name": "vin10",
+              "type": "url",
+              "url": "https://vin01.ru/"
             }
           ],
           "name": "VIN",
@@ -114,6 +119,16 @@
               "name": "av100.ru",
               "type": "url",
               "url": "https://av100.ru/"
+            },
+            {
+              "name": "Номерограм",
+              "type": "url",
+              "url": "https://www.nomerogram.ru/"
+            },
+            {
+              "name": "vin10",
+              "type": "url",
+              "url": "https://vin01.ru/"
             }
           ],
           "name": "Гос Номер",
@@ -164,6 +179,27 @@
               "name": "domspravka.com",
               "type": "url",
               "url": "https://domspravka.com/"
+            }
+          ]
+        },
+        {
+          "name": "Пошук в судовій системі",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sudrf.kodeks.ru",
+              "type": "url",
+              "url": "https://sudrf.cntd.ru/"
+            },
+            {
+              "name": "СудебныеРешения.РФ",
+              "type": "url",
+              "url": "https://xn--90afdbaav0bd1afy6eub5d.xn--p1ai/"
+            },
+            {
+              "name": "sudact.ru",
+              "type": "url",
+              "url": "https://sudact.ru/"
             }
           ]
         },
@@ -246,10 +282,22 @@
           "name": "Реестр публічних діячів",
           "type": "url",
           "url": "https://rupep.org/en/"
-        }
+        },
+        {"name":"ГосУслуги(М)",
+        "type":"url",
+          "url":"https://www.gosuslugi.ru/api/posobie16/v1/orders/snils/lookup?lastName=ФАМИЛИЯ&firstName=ИМЯ&middleName=ОТЧЕСТВО&birthDate=ГГГГ-ММ-ДД"}
       ],
       "name": "ПІБ",
       "type": "folder"
+    },{
+      "name":"Пароль", "type":"folder", "children":[
+        {
+          "name":"@userssearchbot",
+          "type":"url",
+          "url":"https://t.me/userssearchbot"
+        }
+      ]
+
     },
     {
       "children": [
@@ -294,14 +342,24 @@
           "url": "https://t.me/safe_search_bot"
         },
         {
-          "name":"@KozakBezZabot",
-          "type":"url",
-          "url":"https://t.me/KozakBezZabot"
+          "name": "@KozakBezZabot",
+          "type": "url",
+          "url": "https://t.me/KozakBezZabot"
         },
         {
-          "name":"@data_surf_bot",
+          "name": "@data_surf_bot",
+          "type": "url",
+          "url": "https://t.me/data_surf_bot"
+        },
+        {
+          "name": "@SovaAppBot",
+          "type": "url",
+          "url": "https://t.me/SovaAppBot"
+        },
+        {
+          "name":"@userssearchbot",
           "type":"url",
-          "url":"https://t.me/data_surf_bot"
+          "url":"https://t.me/userssearchbot"
         }
       ],
       "name": "Агрегатори",

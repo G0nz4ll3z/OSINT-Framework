@@ -67,6 +67,17 @@
           },
           "name": "Пошук паролів",
           "type": "folder"
+        },
+        {
+          "name": "Валідація",
+          "type": "folder",
+          "children": [
+            {
+              "name": "epieos.com",
+              "type": "url",
+              "url": "https://epieos.com/"
+            }
+          ]
         }
       ],
       "name": "E-mail",
@@ -369,6 +380,11 @@
           "name": "@UniversalSearchRobot",
           "type": "url",
           "url": "https://t.me/UniversalSearchRobot"
+        },
+        {
+          "name": "@AngelSearchBot",
+          "type": "url",
+          "url": "https://t.me/AngelSearchBot"
         }
       ],
       "name": "Агрегатори",

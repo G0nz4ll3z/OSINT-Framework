@@ -36,21 +36,77 @@
     {
       "children": [
         {
+          "name": "Вконтакте",
+          "type": "folder",
           "children": [
             {
-              "name": "Вконтакте",
-              "type": "folder"
+              "name": "vk.watch - Історія акаунту (платний)",
+              "type": "url",
+              "url": "https://vk.watch/"
             },
             {
-              "name": "Одноклсаники",
-              "type": "folder"
+              "name": "searchlikes.ru (платний) — лайки коментарі і статистика друзів",
+              "type": "url",
+              "url": "http://searchlikes.ru/login"
             },
             {
-              "name": "Мой Мир",
-              "type": "folder"
+              "name": "220vk.com (платний) — статистика по друзям",
+              "type": "url",
+              "url": "https://220vk.com/"
+            },
+            {
+              "name": "vk5.city4me.com — статистика активносіт та приховані друзі",
+              "type": "url",
+              "url": "http://vk5.city4me.com/"
+            },
+            {
+              "name": "VKAnalysis - тула для аналізу вк (T)",
+              "type": "url",
+              "url": "https://github.com/migalin/VKAnalysis"
+            },
+            {
+              "name": "InfoApp — додаток Вк для пошуку груп створених профілем",
+              "type": "url",
+              "url": "https://vk.com/app7183114"
+            },
+            {
+              "name": "@InfoVkUser_bot — статистика по учбовим закладам друзів",
+              "url": "https://t.me/InfoVkUser_bot",
+              "type": "url"
+            },
+            {
+              "name": "@FindNameVk_bot — історія зміни імен",
+              "type": "url",
+              "url": "https://t.me/FindNameVk_bot"
+            },
+            {
+              "name": "vkdia.com — виявляє їмовірних співбесідників по айді",
+              "type": "url",
+              "url": "https://vkdia.com/"
+            },
+            {
+              "name": "vkpt.info (t) — мониторинг діяльності ",
+              "type": "url",
+              "url": "http://vkpt.info/"
+            },
+            {
+              "name": "@vk2017robot — показує яким був профіль у 2017 році",
+              "type": "url",
+              "url": "https://t.me/vk2017robot"
+            },
+            {
+              "name": "@VKHistoryRobot — історія профіля з 2010 по 2021 рік по айді",
+              "type": "url",
+              "url": "https://t.me/VKHistoryRobot"
             }
-          ],
-          "name": "Список популярних",
+          ]
+        },
+        {
+          "name": "Одноклсаники",
+          "type": "folder"
+        },
+        {
+          "name": "Мой Мир",
           "type": "folder"
         }
       ],
